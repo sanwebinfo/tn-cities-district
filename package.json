@@ -1,6 +1,6 @@
 {
   "name": "tnweb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tnweb - Search and get the list of district and Major Cities of Tamil Nadu.",
   "main": "./dist/tn.js",
   "scripts": {
