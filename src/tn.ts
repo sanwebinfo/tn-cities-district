@@ -1,3 +1,4 @@
+import * as path from 'path';
 import * as fs from 'fs';
 
 interface DistrictData {
@@ -7,7 +8,8 @@ interface DistrictData {
 
 function getDistrictData(): { [key: string]: DistrictData } {
     try {
-        const data = fs.readFileSync('./database/districts.json', 'utf8');
+        const filePath = path.join(__dirname, '..', 'database', 'districts.json');
+        const data = fs.readFileSync(filePath, 'utf8');
         return JSON.parse(data);
     } catch (err) {
         console.error("Error reading districts data:", err);

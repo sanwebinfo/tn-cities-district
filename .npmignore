@@ -27,3 +27,4 @@ screenshot.gif
 # Editors
 .vscode/*
 database/duplicate.py
+_config.yml
