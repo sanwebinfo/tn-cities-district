@@ -1,0 +1,311 @@
+{
+  "chennai": {
+    "district": "chennai",
+    "major_cities": [
+      "chennai"
+    ]
+  },
+  "coimbatore": {
+    "district": "coimbatore",
+    "major_cities": [
+      "coimbatore",
+      "tiruppur",
+      "pollachi",
+      "mettupalayam"
+    ]
+  },
+  "madurai": {
+    "district": "madurai",
+    "major_cities": [
+      "madurai",
+      "dindigul",
+      "theni"
+    ]
+  },
+  "tiruchirappalli": {
+    "district": "tiruchirappalli",
+    "major_cities": [
+      "tiruchirappalli",
+      "srirangam"
+    ]
+  },
+  "salem": {
+    "district": "salem",
+    "major_cities": [
+      "salem",
+      "namakkal",
+      "attur"
+    ]
+  },
+  "tirunelveli": {
+    "district": "tirunelveli",
+    "major_cities": [
+      "tirunelveli",
+      "tenkasi",
+      "ambasamudram"
+    ]
+  },
+  "vellore": {
+    "district": "vellore",
+    "major_cities": [
+      "vellore",
+      "ambur",
+      "katpadi"
+    ]
+  },
+  "erode": {
+    "district": "erode",
+    "major_cities": [
+      "erode",
+      "bhavani",
+      "gobichettipalayam"
+    ]
+  },
+  "thanjavur": {
+    "district": "thanjavur",
+    "major_cities": [
+      "thanjavur",
+      "kumbakonam",
+      "thiruvaiyaru"
+    ]
+  },
+  "thoothukudi": {
+    "district": "thoothukudi",
+    "major_cities": [
+      "thoothukudi",
+      "kovilpatti",
+      "tiruchendur"
+    ]
+  },
+  "cuddalore": {
+    "district": "cuddalore",
+    "major_cities": [
+      "cuddalore",
+      "chidambaram",
+      "panruti"
+    ]
+  },
+  "kancheepuram": {
+    "district": "kancheepuram",
+    "major_cities": [
+      "kancheepuram",
+      "chengalpattu",
+      "sriperumbudur"
+    ]
+  },
+  "karur": {
+    "district": "karur",
+    "major_cities": [
+      "karur",
+      "kulithalai",
+      "vaishnavi_K_R"
+    ]
+  },
+  "nilgiris": {
+    "district": "nilgiris",
+    "major_cities": [
+      "udhagamandalam (ooty)",
+      "coonoor",
+      "gudalur"
+    ]
+  },
+  "krishnagiri": {
+    "district": "krishnagiri",
+    "major_cities": [
+      "krishnagiri",
+      "hosur",
+      "denkanikottai"
+    ]
+  },
+  "virudhunagar": {
+    "district": "virudhunagar",
+    "major_cities": [
+      "virudhunagar",
+      "sivakasi",
+      "rajapalayam"
+    ]
+  },
+  "nagapattinam": {
+    "district": "nagapattinam",
+    "major_cities": [
+      "nagapattinam",
+      "mayiladuthurai",
+      "sirkazhi"
+    ]
+  },
+  "tiruvannamalai": {
+    "district": "tiruvannamalai",
+    "major_cities": [
+      "tiruvannamalai",
+      "arni",
+      "chengam"
+    ]
+  },
+  "kanniyakumari": {
+    "district": "kanniyakumari",
+    "major_cities": [
+      "nagercoil",
+      "marthandam",
+      "kanyakumari"
+    ]
+  },
+  "thiruvarur": {
+    "district": "thiruvarur",
+    "major_cities": [
+      "thiruvarur",
+      "mannargudi",
+      "thiruthuraipoondi"
+    ]
+  },
+  "ramanathapuram": {
+    "district": "ramanathapuram",
+    "major_cities": [
+      "ramanathapuram",
+      "paramakudi",
+      "mudukulathur"
+    ]
+  },
+  "sivaganga": {
+    "district": "sivaganga",
+    "major_cities": [
+      "sivaganga",
+      "karaikudi",
+      "devakottai"
+    ]
+  },
+  "tiruppur": {
+    "district": "tiruppur",
+    "major_cities": [
+      "tiruppur",
+      "avanashi",
+      "palladam"
+    ]
+  },
+  "ariyalur": {
+    "district": "ariyalur",
+    "major_cities": [
+      "ariyalur",
+      "jayankondam"
+    ]
+  },
+  "perambalur": {
+    "district": "perambalur",
+    "major_cities": [
+      "perambalur",
+      "kunnam",
+      "veppanthattai"
+    ]
+  },
+  "theni": {
+    "district": "theni",
+    "major_cities": [
+      "theni",
+      "bodinayakanur",
+      "periyakulam"
+    ]
+  },
+  "tirupathur": {
+    "district": "tirupathur",
+    "major_cities": [
+      "tirupathur",
+      "ambur",
+      "vaniyambadi"
+    ]
+  },
+  "dharmapuri": {
+    "district": "dharmapuri",
+    "major_cities": [
+      "dharmapuri",
+      "palacode",
+      "pennagaram"
+    ]
+  },
+  "tiruvallur": {
+    "district": "tiruvallur",
+    "major_cities": [
+      "tiruvallur",
+      "ponneri",
+      "gummidipoondi"
+    ]
+  },
+  "pudukkottai": {
+    "district": "pudukkottai",
+    "major_cities": [
+      "pudukkottai",
+      "aranthangi",
+      "alangudi"
+    ]
+  },
+  "namakkal": {
+    "district": "namakkal",
+    "major_cities": [
+      "namakkal",
+      "paramathi-velur",
+      "rasipuram"
+    ]
+  },
+  "tiruvarur": {
+    "district": "tiruvarur",
+    "major_cities": [
+      "tiruvarur",
+      "mannargudi",
+      "thiruthuraipoondi"
+    ]
+  },
+  "viluppuram": {
+    "district": "viluppuram",
+    "major_cities": [
+      "viluppuram",
+      "tindivanam",
+      "kallakurichi"
+    ]
+  },
+  "tirupattur": {
+    "district": "tirupattur",
+    "major_cities": [
+      "tirupattur",
+      "ambur",
+      "natrampalli"
+    ]
+  },
+  "ranipet": {
+    "district": "ranipet",
+    "major_cities": [
+      "ranipet",
+      "arcot",
+      "sholinghur"
+    ]
+  },
+  "chengalpattu": {
+    "district": "chengalpattu",
+    "major_cities": [
+      "chengalpattu",
+      "kanchipuram",
+      "maraimalai_nagar"
+    ]
+  },
+  "tenkasi": {
+    "district": "tenkasi",
+    "major_cities": [
+      "tenkasi",
+      "kadayanallur",
+      "shenkottai"
+    ]
+  },
+  "kallakurichi": {
+    "district": "kallakurichi",
+    "major_cities": [
+      "kallakurichi",
+      "chinnasalem",
+      "gangavalli"
+    ]
+  },
+  "mayiladuthurai": {
+    "district": "mayiladuthurai",
+    "major_cities": [
+      "mayiladuthurai",
+      "sirkali",
+      "tharangambadi"
+    ]
+  }
+}

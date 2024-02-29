@@ -1,0 +1,44 @@
+{
+  "name": "tnweb",
+  "version": "1.0.0",
+  "description": "Tnweb - Search and get the list of district and Major Cities of Tamil Nadu.",
+  "main": "./dist/tn.js",
+  "scripts": {
+    "dev": "ts-node src/tn.ts",
+    "build": "tsc",
+    "start": "node dist/tn.js"
+  },
+  "publishConfig": {
+    "provenance": true
+  },
+  "bin": {
+    "tnweb": "bin/index.mjs"
+  },
+  "keywords": [
+    "tamil",
+    "tamilnadu",
+    "city",
+    "district",
+    "town"
+  ],
+  "author": "Santhosh Veer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanwebinfo/tn-cities-district"
+  },
+  "bugs": {
+    "url": "https://github.com/sanwebinfo/tn-cities-district/issues"
+  },
+  "homepage": "https://github.com/sanwebinfo/tn-cities-district",
+  "devDependencies": {
+    "@types/node": "^20.11.22",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "files": [
+    "dist/**/*",
+    "database/districts.json",
+    "bin/**/*"
+  ]
+}
