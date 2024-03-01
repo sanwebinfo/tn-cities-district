@@ -22,11 +22,12 @@
       "theni"
     ]
   },
-  "tiruchirappalli": {
-    "district": "tiruchirappalli",
+  "trichy": {
+    "district": "trichy",
     "major_cities": [
-      "tiruchirappalli",
-      "srirangam"
+      "manapparai",
+      "srirangam",
+      "lalgudi"
     ]
   },
   "salem": {
@@ -98,7 +99,7 @@
     "major_cities": [
       "karur",
       "kulithalai",
-      "vaishnavi_K_R"
+      "Krishnarayapuram"
     ]
   },
   "nilgiris": {
